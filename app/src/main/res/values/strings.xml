@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My First Application</string>
+    <string name="ReturnToHomeScreen">Return</string>
+    <string name="GoAhead">Start Quiz</string>
+    <string name="TextRow">Your Text</string>
+    <string name="NameofSecondActivity">SecondScreen</string>
+    <string name="check">Check</string>
+    <string name="dialogMistakeTitle">Mistake</string>
+    <string name="dialogMistakeMessage">It seems that you put incorrect age! Try one more time</string>
+    <string name="dialogErrorTitle">ERROR</string>
+    <string name="dialogErrorMsg">It seems that you put incorrect values! Try one more time</string>
+    <string name="dialogWelcomeTitle">Welcome</string>
+    <string name="FourthScreenInstruction">Click and choose the color of eye</string>
+    <string name="title_activity_fifth">FifthActivity</string>
+    <string name="instructionText">Instruction</string>
+    <string name="resultDialogMessage">Result!</string>
+    <string name="InstructionText">Hello! You\'re welcome in my first application! To start the quiz back to the main menu and choose the Start Quiz Button.</string>
+    <string name="FifthScreenInstruction">Click and choose the temperament</string>
+    <string name="instructionScreen">Instruction</string>
+    <string name="changeDatabaseText">Change Database</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+</resources>
