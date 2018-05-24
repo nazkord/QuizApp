@@ -49,6 +49,7 @@ public class DbHandler extends SQLiteOpenHelper {
         onCreate(db);
     }
 
+
     public String[] columnToString(String COL_NAME) {
         SQLiteDatabase db = getReadableDatabase();
 
