@@ -1,2 +1,2 @@
-# Android-First-Application
-My first ever android application based on a simply quiz and database (you can add and delete persons)
+# QuizApp
+Android quiz app for taking quiz about friends! Users can manually add information about users and then take a quiz about them
